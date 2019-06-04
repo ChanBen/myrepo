@@ -10,6 +10,7 @@ namespace project
     {
         static void Main(string[] args)
         {
+            string x = "0";
         }
     }
 }
